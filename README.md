@@ -2,19 +2,22 @@
 Re-creating an iconic game while adding my own spin.
 
 === CONTROLS ===
-Ship movement
-•	Left/Right arrow keys turn the ship. 
-•	Up arrow accelerates the ship.  After release, the ship will glide to a stop due to friction.
-Shooting
-•	Spacebar is used to shoot bullets as well as use power-ups
-Power Ups
-•	Use “A” and “D” to shift between powerups.  The powerup UI can be seen in the bottom-left of the
-  screen.
-•	Destroy asteroids and collect the energy they drop to charge your powerups.
-•	The default fire action will switch to whatever powerup is active.  If you have the energy, the 
-  powerup will fire instead of bullets.
-Restarting
-•	When the “Game Over” screen is displayed, press “R” to restart the game.
+- Ship movement
+  * Left/Right arrow keys turn the ship. 
+  * Up arrow accelerates the ship.  After release, the ship will glide to a stop due to friction.
+
+- Shooting
+  * Spacebar is used to shoot bullets as well as use power-ups
+
+- Power Ups
+  * Use “A” and “D” to shift between powerups.  The powerup UI can be seen in the bottom-left of the
+    screen.
+  * Destroy asteroids and collect the energy they drop to charge your powerups.
+  * The default fire action will switch to whatever powerup is active.  If you have the energy, the 
+    powerup will fire instead of bullets.
+
+- Restarting
+  * When the “Game Over” screen is displayed, press “R” to restart the game.
 
 === INTERESTING FEATURES ===
 - The powerup system.  There are 3 types of powerups and each does something different.  Powerups 
